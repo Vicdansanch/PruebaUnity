@@ -8,7 +8,7 @@ public class NewBehaviourScript : MonoBehaviour
     int valor1 = 0;
     void Start()
     {
-        
+        valor1 = 500;   
     }
 
     // Update is called once per frame
